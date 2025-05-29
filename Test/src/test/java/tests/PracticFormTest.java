@@ -39,7 +39,8 @@ public class PracticFormTest extends TestBase {
             $("#react-select-3-input").setValue("NCR").pressEnter();
             $("#city").scrollTo().click();
             $("#react-select-4-input").setValue("Delhi").pressEnter();
-            $("#submit").click();
+            $("#submit").scrollTo().click();
+
         });
         step("Проверка данных", () -> {
             $(".table-responsive").shouldBe(visible);
