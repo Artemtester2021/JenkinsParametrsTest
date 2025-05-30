@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.PracticFormTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-29T18:10:08" hostname="PRO_BREVE" time="27.863">
+<testsuite name="tests.PracticFormTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-05-30T05:13:44" hostname="PRO_BREVE" time="27.122">
   <properties/>
-  <testcase name="fillFormTest()" classname="tests.PracticFormTest" time="27.863"/>
+  <testcase name="fillFormTest()" classname="tests.PracticFormTest" time="27.122"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
-[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide 7.7.3 / Selenium 4.29.0 / chrome 128.0.6613.137 linux
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide 7.8.1 / Selenium 4.30.0 / chrome 128.0.6613.137 linux
 ]]></system-err>
 </testsuite>
